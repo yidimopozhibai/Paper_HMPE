@@ -6,28 +6,28 @@ import { HomeFilled, SuccessFilled } from '@element-plus/icons-vue'
 // 个人主页
 const home = {
     name: "My Blog",
-    link: "https://junyaohu.github.io/",
+    link: "https://yidimopozhibai.github.io/",
 }
 
 // 项目主页
 const logo = {
-    name: "Template",
+    name: "HeatMap Embedding(HMPE)",
     link: "#",
 }
 
 // 右侧更多菜单
 const more_paper = {
-    "ExtDM": {
-        name: "ExtDM - CVPR 2024",
-        link: "https://zzcheng.top/ExtDM/",
+    "ACM MM'25": {
+        name: "ACM MM'25",
+        link: "https://acmmm2025.org/",
     },
-    "MPOT": {
-        name: "MPOT - ICCV 2023",
-        link: "https://zzcheng.top/MPOT/",
+    "openreview": {
+        name: "openreview",
+        link: "https://openreview.net/",
     },
-    "ControlNet": {
-        name: "ControlNet - ICCV 2023",
-        link: "https://github.com/lllyasviel/ControlNet",
+    "arxiv": {
+        name: "arxiv",
+        link: "https://arxiv.org/",
     }
 }
 
